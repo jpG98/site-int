@@ -18,24 +18,32 @@ div{
     width: 400px;
     height: 100px;
     left: 26%;
-    top: 25px;
+    top: 20px;
     border-radius: 25px;
+}
+
+.C1{
+    position:absolute;
+    width: 1440px;
+    height: 628px;
+    left: 10%;
+    top: 17%;
 }
 
 .M2{
     position: absolute;
     width: 280px;
     height: 60px;
-    left: 20%;
-    top: 30%;
+    left: 10%;
+    top: 20%;
     border-radius: 25px;
 }
 .M22{
     position: absolute;
     width: 280px;
     height: 60px;
-    left: 40%;
-    top: 30%;
+    left: 30%;
+    top: 20%;
     border-radius: 25px;
 }
 
@@ -43,16 +51,16 @@ div{
     position: absolute;
     width: 250px;
     height: 400px;
-    left: 21%;
-    top: 40%;
+    left: 11%;
+    top: 30%;
     border-radius: 25px;
 }
 .M33{
     position: absolute;
     width: 250px;
     height: 400px;
-    left: 41%;
-    top: 40%;
+    left: 31%;
+    top: 30%;
     border-radius: 25px;
 }
 
@@ -61,7 +69,7 @@ div{
     width: 250px;
     height: 60px;
     left: 80%;
-    top: 15%;
+    top: 5%;
     border-radius: 25px;
 }
 
@@ -70,7 +78,7 @@ div{
     width: 150px;
     height: 150px;
     left: 70%;
-    top: 25%;
+    top: 15%;
     border-radius: 25px;
 }
 
@@ -78,8 +86,8 @@ div{
     position: absolute;
     width: 150px;
     height: 150px;
-    left: 90%;
-    top: 45%;
+    left: 88%;
+    top: 35%;
     border-radius: 25px;
 }
 
@@ -88,6 +96,6 @@ div{
     width: 150px;
     height: 150px;
     left: 70%;
-    top: 65%;
+    top: 55%;
     border-radius: 25px;
 }
