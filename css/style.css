@@ -1,8 +1,14 @@
-body{
-    background-color: #262566;
+.funto{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(146.11deg, #21122B 22.76%, rgba(151, 47, 215, 0) 91.71%);
+
 }
 div{
-    background-color: #2062a062;
+    background-color: #593ef1c2;
 }
 
 .E1{
@@ -11,15 +17,35 @@ div{
     height: 250px;
     left: 0px;
     top: 0px;
+    border-radius: 25px;
+}
+.E12{
+    position: absolute;
+    width: 155px;
+    height: 255px;
+    left: 5px;
+    top: 5px;
+    border-radius: 25px; 
+    background-color: rgba(0, 0, 0, 0.548);
 }
 
 .M1{
     position: absolute;
     width: 400px;
     height: 100px;
-    left: 26%;
-    top: 20px;
+    left: 0px;
+    top: 0px;
     border-radius: 25px;
+    
+}
+.M12{
+    position: absolute;
+    width: 405px;
+    height: 105px;
+    left: 26%;
+    top: 15px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
 }
 
 .C1{
@@ -28,6 +54,9 @@ div{
     height: 628px;
     left: 10%;
     top: 17%;
+    background: url(../imagem/galaxia.jpg);
+    Opacity: 98%
+
 }
 
 .M2{
@@ -35,33 +64,55 @@ div{
     width: 280px;
     height: 60px;
     left: 10%;
-    top: 20%;
+    top: 19%;
     border-radius: 25px;
+    background: linear-gradient(138.85deg, #30293F 31.94%, rgba(208, 53, 193, 0.123528) 104.21%, rgba(13, 23, 47, 0.109375) 104.22%, rgba(3, 18, 32, 0) 104.23%);
 }
 .M22{
     position: absolute;
     width: 280px;
     height: 60px;
     left: 30%;
-    top: 20%;
+    top: 19%;
     border-radius: 25px;
+    background: linear-gradient(138.85deg, #30293F 31.94%, rgba(208, 53, 193, 0.123528) 104.21%, rgba(13, 23, 47, 0.109375) 104.22%, rgba(3, 18, 32, 0) 104.23%);
 }
 
 .M3{
     position: absolute;
     width: 250px;
     height: 400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+    background: linear-gradient(140.4deg, #603DAB 27.5%, rgba(208, 53, 193, 0.123528) 104.32%, rgba(13, 23, 47, 0.109375) 104.33%, rgba(3, 18, 32, 0) 104.34%);
+}
+.M31{
+    position: absolute;
+    width: 265px;
+    height: 415px;
     left: 11%;
     top: 30%;
-    border-radius: 25px;
+    border-radius: 25px; 
+    background-color: rgba(0, 0, 0, 0.548);
 }
 .M33{
     position: absolute;
     width: 250px;
     height: 400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+    background: linear-gradient(140.4deg, #603DAB 27.5%, rgba(208, 53, 193, 0.123528) 104.32%, rgba(13, 23, 47, 0.109375) 104.33%, rgba(3, 18, 32, 0) 104.34%);
+}
+.M32{
+    position: absolute;
+    width: 265px;
+    height: 415px;
     left: 31%;
     top: 30%;
     border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
 }
 
 .D1{
@@ -71,31 +122,93 @@ div{
     left: 80%;
     top: 5%;
     border-radius: 25px;
+    background: linear-gradient(138.85deg, #30293F 31.94%, rgba(208, 53, 193, 0.123528) 104.21%, rgba(13, 23, 47, 0.109375) 104.22%, rgba(3, 18, 32, 0) 104.23%);
 }
 
 .D2{
     position: absolute;
     width: 150px;
     height: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+    background: linear-gradient(140.4deg, #603DAB 27.5%, rgba(208, 53, 193, 0.123528) 104.32%, rgba(13, 23, 47, 0.109375) 104.33%, rgba(3, 18, 32, 0) 104.34%);
+}
+
+.D21{
+    position: absolute;
+    width: 160px;
+    height: 160px;
     left: 70%;
     top: 15%;
     border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
 }
 
 .D3{
     position: absolute;
     width: 150px;
     height: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+    background: linear-gradient(140.4deg, #603DAB 27.5%, rgba(208, 53, 193, 0.123528) 104.32%, rgba(13, 23, 47, 0.109375) 104.33%, rgba(3, 18, 32, 0) 104.34%);
+}
+
+.D31{
+    position: absolute;
+    width: 160px;
+    height: 160px;
     left: 88%;
     top: 35%;
     border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
 }
 
 .D4{
     position: absolute;
     width: 150px;
     height: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+    background: linear-gradient(140.4deg, #603DAB 27.5%, rgba(208, 53, 193, 0.123528) 104.32%, rgba(13, 23, 47, 0.109375) 104.33%, rgba(3, 18, 32, 0) 104.34%);
+}
+
+.D41{
+    position: absolute;
+    width: 160px;
+    height: 160px;
     left: 70%;
     top: 55%;
     border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
 }
+
+.E2{
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+}
+
+.E3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 25px;
+}
+.E31{
+    position: absolute;
+    width: 155px;
+    height: 155px;
+    left: 0px;
+    top: 600px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.548);
+}
+
